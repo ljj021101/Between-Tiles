@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0538544b0da5704f848c05dccebc5fd, type: 3}
+  m_Name: 0-3
+  m_EditorClassIdentifier: Assembly-CSharp::BetweenTiles.Core.LevelAsset
+  SaveId: 
+  Kind: 0
+  Width: 17
+  Height: 5
+  Cells: 02000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000050000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000200000002000000020000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000020000000000000000000000010000000200000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000005000000
+  Entities:
+  - Type: 1
+    Position: {x: 9, y: 2}
+  - Type: 1
+    Position: {x: 9, y: 1}
+  - Type: 1
+    Position: {x: 10, y: 1}
+  - Type: 1
+    Position: {x: 11, y: 2}
+  - Type: 1
+    Position: {x: 8, y: 2}
+  - Type: 1
+    Position: {x: 8, y: 3}
+  - Type: 1
+    Position: {x: 7, y: 1}
+  - Type: 1
+    Position: {x: 10, y: 2}
+  - Type: 1
+    Position: {x: 4, y: 3}
+  - Type: 1
+    Position: {x: 4, y: 1}
+  - Type: 0
+    Position: {x: 2, y: 2}
+  - Type: 1
+    Position: {x: 5, y: 1}
+  - Type: 1
+    Position: {x: 7, y: 3}
+  - Type: 1
+    Position: {x: 5, y: 3}
+  Edges: []
+  Entrances: []
+  Locks: []
